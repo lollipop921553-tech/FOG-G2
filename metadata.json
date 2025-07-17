@@ -1,0 +1,8 @@
+{
+  "name": "FOG G",
+  "description": "A global freelance and local physical task platform designed for productivity. Connect with freelancers for digital services worldwide, or find taskers for physical jobs in Islamabad & Rawalpindi. Earn rewards by engaging with content.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
